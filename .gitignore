@@ -1,0 +1,8 @@
+# Ignore build directories
+cmake-build-debug/
+
+# Ignore IDE configuration files
+.idea/
+
+# Ignore macOS system files
+.DS_Store
